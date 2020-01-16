@@ -1,0 +1,12 @@
+.grocery_header {
+    font-size: 5em;
+}
+
+#grocery-list {
+    list-style: none;
+}
+
+.red-text {
+    color: red;
+}
+
